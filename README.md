@@ -3,4 +3,4 @@ Neon kinda bubbles that merge into one another. Makes for a kind of intereseting
 
 Here is a screenshot with bubbles in neon mode, with a couple of extra mayhem bubbles added on top of defaults:
 
-![screenshot](https://github.com/elterminad0r/bubbles/blob/master/screenshot.png)
+![screenshot](https://github.com/goedel-gang/bubbles/blob/master/screenshot.png)
