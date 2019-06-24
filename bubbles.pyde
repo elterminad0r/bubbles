@@ -1,3 +1,5 @@
+# vim: ft=python
+
 from Bubble import Bubble
 
 DEFAULT_BUBBLES = 30
